@@ -1,0 +1,150 @@
+
+Name: bootstrap
+Owner: twbs
+Stars: 158441
+Repository: https://github.com/twbs/bootstrap
+
+Name: d3
+Owner: d3
+Stars: 101883
+Repository: https://github.com/d3/d3
+
+Name: material-ui
+Owner: mui
+Stars: 79776
+Repository: https://github.com/mui/material-ui
+
+Name: Font-Awesome
+Owner: FortAwesome
+Stars: 69663
+Repository: https://github.com/FortAwesome/Font-Awesome
+
+Name: atom
+Owner: atom
+Stars: 58270
+Repository: https://github.com/atom/atom
+
+Name: jquery
+Owner: jquery
+Stars: 56436
+Repository: https://github.com/jquery/jquery
+
+Name: markdown-here
+Owner: adam-p
+Stars: 55871
+Repository: https://github.com/adam-p/markdown-here
+
+Name: lodash
+Owner: lodash
+Stars: 53705
+Repository: https://github.com/lodash/lodash
+
+Name: yarn
+Owner: yarnpkg
+Stars: 40733
+Repository: https://github.com/yarnpkg/yarn
+
+Name: dayjs
+Owner: iamkun
+Stars: 39562
+Repository: https://github.com/iamkun/dayjs
+
+Name: cypress
+Owner: cypress-io
+Stars: 39437
+Repository: https://github.com/cypress-io/cypress
+
+Name: hexo
+Owner: hexojs
+Stars: 35065
+Repository: https://github.com/hexojs/hexo
+
+Name: video.js
+Owner: videojs
+Stars: 33575
+Repository: https://github.com/videojs/video.js
+
+Name: gulp
+Owner: gulpjs
+Stars: 32558
+Repository: https://github.com/gulpjs/gulp
+
+Name: Motrix
+Owner: agalwood
+Stars: 32384
+Repository: https://github.com/agalwood/Motrix
+
+Name: preact
+Owner: preactjs
+Stars: 32224
+Repository: https://github.com/preactjs/preact
+
+Name: phaser
+Owner: photonstorm
+Stars: 32048
+Repository: https://github.com/photonstorm/phaser
+
+Name: sheetjs
+Owner: SheetJS
+Stars: 30663
+Repository: https://github.com/SheetJS/sheetjs
+
+Name: monaco-editor
+Owner: microsoft
+Stars: 30187
+Repository: https://github.com/microsoft/monaco-editor
+
+Name: marked
+Owner: markedjs
+Stars: 27891
+Repository: https://github.com/markedjs/marked
+
+Name: backbone
+Owner: jashkenas
+Stars: 27878
+Repository: https://github.com/jashkenas/backbone
+
+Name: todomvc
+Owner: tastejs
+Stars: 27874
+Repository: https://github.com/tastejs/todomvc
+
+Name: bypass-paywalls-chrome
+Owner: iamadamdev
+Stars: 27406
+Repository: https://github.com/iamadamdev/bypass-paywalls-chrome
+
+Name: select2
+Owner: select2
+Stars: 25382
+Repository: https://github.com/select2/select2
+
+Name: fetch
+Owner: github
+Stars: 25370
+Repository: https://github.com/github/fetch
+
+Name: Awesome-Design-Tools
+Owner: goabstract
+Stars: 25240
+Repository: https://github.com/goabstract/Awesome-Design-Tools
+
+Name: codemirror5
+Owner: codemirror
+Stars: 25180
+Repository: https://github.com/codemirror/codemirror5
+
+Name: learnGitBranching
+Owner: pcottle
+Stars: 25070
+Repository: https://github.com/pcottle/learnGitBranching
+
+Name: gitbook
+Owner: GitbookIO
+Stars: 24867
+Repository: https://github.com/GitbookIO/gitbook
+
+Name: NeteaseCloudMusicApi
+Owner: Binaryify
+Stars: 24792
+Repository: https://github.com/Binaryify/NeteaseCloudMusicApi

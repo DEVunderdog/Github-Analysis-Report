@@ -1,0 +1,150 @@
+
+Name: deno
+Owner: denoland
+Stars: 83963
+Repository: https://github.com/denoland/deno
+
+Name: rust
+Owner: rust-lang
+Stars: 68683
+Repository: https://github.com/rust-lang/rust
+
+Name: tauri
+Owner: tauri-apps
+Stars: 46502
+Repository: https://github.com/tauri-apps/tauri
+
+Name: alacritty
+Owner: alacritty
+Stars: 40303
+Repository: https://github.com/alacritty/alacritty
+
+Name: bat
+Owner: sharkdp
+Stars: 35593
+Repository: https://github.com/sharkdp/bat
+
+Name: ripgrep
+Owner: BurntSushi
+Stars: 32001
+Repository: https://github.com/BurntSushi/ripgrep
+
+Name: meilisearch
+Owner: meilisearch
+Stars: 27841
+Repository: https://github.com/meilisearch/meilisearch
+
+Name: starship
+Owner: starship
+Stars: 27314
+Repository: https://github.com/starship/starship
+
+Name: awesome-rust
+Owner: rust-unofficial
+Stars: 26975
+Repository: https://github.com/rust-unofficial/awesome-rust
+
+Name: rustlings
+Owner: rust-lang
+Stars: 25992
+Repository: https://github.com/rust-lang/rustlings
+
+Name: rustdesk
+Owner: rustdesk
+Stars: 23986
+Repository: https://github.com/rustdesk/rustdesk
+
+Name: fd
+Owner: sharkdp
+Stars: 23742
+Repository: https://github.com/sharkdp/fd
+
+Name: AppFlowy
+Owner: AppFlowy-IO
+Stars: 22956
+Repository: https://github.com/AppFlowy-IO/AppFlowy
+
+Name: swc
+Owner: swc-project
+Stars: 22936
+Repository: https://github.com/swc-project/swc
+
+Name: yew
+Owner: yewstack
+Stars: 22642
+Repository: https://github.com/yewstack/yew
+
+Name: nushell
+Owner: nushell
+Stars: 19850
+Repository: https://github.com/nushell/nushell
+
+Name: xi-editor
+Owner: xi-editor
+Stars: 19472
+Repository: https://github.com/xi-editor/xi-editor
+
+Name: tools
+Owner: rome
+Stars: 18969
+Repository: https://github.com/rome/tools
+
+Name: firecracker
+Owner: firecracker-microvm
+Stars: 18548
+Repository: https://github.com/firecracker-microvm/firecracker
+
+Name: exa
+Owner: ogham
+Stars: 18410
+Repository: https://github.com/ogham/exa
+
+Name: Rocket
+Owner: SergioBenitez
+Stars: 17806
+Repository: https://github.com/SergioBenitez/Rocket
+
+Name: vaultwarden
+Owner: dani-garcia
+Stars: 17202
+Repository: https://github.com/dani-garcia/vaultwarden
+
+Name: relay
+Owner: facebook
+Stars: 17124
+Repository: https://github.com/facebook/relay
+
+Name: bevy
+Owner: bevyengine
+Stars: 17109
+Repository: https://github.com/bevyengine/bevy
+
+Name: tokio
+Owner: tokio-rs
+Stars: 16715
+Repository: https://github.com/tokio-rs/tokio
+
+Name: diem
+Owner: diem
+Stars: 16454
+Repository: https://github.com/diem/diem
+
+Name: v86
+Owner: copy
+Stars: 15056
+Repository: https://github.com/copy/v86
+
+Name: actix-web
+Owner: actix
+Stars: 14559
+Repository: https://github.com/actix/actix-web
+
+Name: delta
+Owner: dandavison
+Stars: 14410
+Repository: https://github.com/dandavison/delta
+
+Name: iced
+Owner: iced-rs
+Stars: 14405
+Repository: https://github.com/iced-rs/iced

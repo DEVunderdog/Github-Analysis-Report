@@ -1,0 +1,150 @@
+
+Name: mall
+Owner: macrozheng
+Stars: 59618
+Repository: https://github.com/macrozheng/mall
+
+Name: spring-framework
+Owner: spring-projects
+Stars: 48409
+Repository: https://github.com/spring-projects/spring-framework
+
+Name: GitHub-Chinese-Top-Charts
+Owner: GrowingGit
+Stars: 47250
+Repository: https://github.com/GrowingGit/GitHub-Chinese-Top-Charts
+
+Name: RxJava
+Owner: ReactiveX
+Stars: 46221
+Repository: https://github.com/ReactiveX/RxJava
+
+Name: retrofit
+Owner: square
+Stars: 40201
+Repository: https://github.com/square/retrofit
+
+Name: dubbo
+Owner: apache
+Stars: 37579
+Repository: https://github.com/apache/dubbo
+
+Name: MPAndroidChart
+Owner: PhilJay
+Stars: 35314
+Repository: https://github.com/PhilJay/MPAndroidChart
+
+Name: lottie-android
+Owner: airbnb
+Stars: 32963
+Repository: https://github.com/airbnb/lottie-android
+
+Name: glide
+Owner: bumptech
+Stars: 32773
+Repository: https://github.com/bumptech/glide
+
+Name: jeecg-boot
+Owner: jeecgboot
+Stars: 30056
+Repository: https://github.com/jeecgboot/jeecg-boot
+
+Name: spring-boot-examples
+Owner: ityouknow
+Stars: 27725
+Repository: https://github.com/ityouknow/spring-boot-examples
+
+Name: dbeaver
+Owner: dbeaver
+Stars: 27317
+Repository: https://github.com/dbeaver/dbeaver
+
+Name: apollo
+Owner: apolloconfig
+Stars: 26980
+Repository: https://github.com/apolloconfig/apollo
+
+Name: spring-boot-demo
+Owner: xkcoding
+Stars: 26104
+Repository: https://github.com/xkcoding/spring-boot-demo
+
+Name: proxyee-down
+Owner: proxyee-down-org
+Stars: 25198
+Repository: https://github.com/proxyee-down-org/proxyee-down
+
+Name: vhr
+Owner: lenve
+Stars: 24457
+Repository: https://github.com/lenve/vhr
+
+Name: selenium
+Owner: SeleniumHQ
+Stars: 24102
+Repository: https://github.com/SeleniumHQ/selenium
+
+Name: SpringAll
+Owner: wuyouzhuguli
+Stars: 23827
+Repository: https://github.com/wuyouzhuguli/SpringAll
+
+Name: hutool
+Owner: dromara
+Stars: 23325
+Repository: https://github.com/dromara/hutool
+
+Name: BaseRecyclerViewAdapterHelper
+Owner: CymChad
+Stars: 22957
+Repository: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+Name: spring-cloud-alibaba
+Owner: alibaba
+Stars: 22948
+Repository: https://github.com/alibaba/spring-cloud-alibaba
+
+Name: Hystrix
+Owner: Netflix
+Stars: 22781
+Repository: https://github.com/Netflix/Hystrix
+
+Name: xxl-job
+Owner: xuxueli
+Stars: 21982
+Repository: https://github.com/xuxueli/xxl-job
+
+Name: Telegram
+Owner: DrKLO
+Stars: 20359
+Repository: https://github.com/DrKLO/Telegram
+
+Name: ExoPlayer
+Owner: google
+Stars: 19528
+Repository: https://github.com/google/ExoPlayer
+
+Name: Sentinel
+Owner: alibaba
+Stars: 19467
+Repository: https://github.com/alibaba/Sentinel
+
+Name: DoKit
+Owner: didi
+Stars: 18829
+Repository: https://github.com/didi/DoKit
+
+Name: eladmin
+Owner: elunez
+Stars: 18423
+Repository: https://github.com/elunez/eladmin
+
+Name: PhotoView
+Owner: Baseflow
+Stars: 18292
+Repository: https://github.com/Baseflow/PhotoView
+
+Name: rocketmq
+Owner: apache
+Stars: 17608
+Repository: https://github.com/apache/rocketmq

@@ -1,0 +1,150 @@
+
+Name: Python
+Owner: TheAlgorithms
+Stars: 140162
+Repository: https://github.com/TheAlgorithms/Python
+
+Name: Python-100-Days
+Owner: jackfrued
+Stars: 120608
+Repository: https://github.com/jackfrued/Python-100-Days
+
+Name: youtube-dl
+Owner: ytdl-org
+Stars: 111420
+Repository: https://github.com/ytdl-org/youtube-dl
+
+Name: transformers
+Owner: huggingface
+Stars: 66804
+Repository: https://github.com/huggingface/transformers
+
+Name: django
+Owner: django
+Stars: 65049
+Repository: https://github.com/django/django
+
+Name: HelloGitHub
+Owner: 521xueweihan
+Stars: 57199
+Repository: https://github.com/521xueweihan/HelloGitHub
+
+Name: keras
+Owner: keras-team
+Stars: 55645
+Repository: https://github.com/keras-team/keras
+
+Name: ansible
+Owner: ansible
+Stars: 53768
+Repository: https://github.com/ansible/ansible
+
+Name: requests
+Owner: psf
+Stars: 47779
+Repository: https://github.com/psf/requests
+
+Name: cpython
+Owner: python
+Stars: 46135
+Repository: https://github.com/python/cpython
+
+Name: manim
+Owner: 3b1b
+Stars: 45752
+Repository: https://github.com/3b1b/manim
+
+Name: big-list-of-naughty-strings
+Owner: minimaxir
+Stars: 42576
+Repository: https://github.com/minimaxir/big-list-of-naughty-strings
+
+Name: rich
+Owner: Textualize
+Stars: 38464
+Repository: https://github.com/Textualize/rich
+
+Name: pandas
+Owner: pandas-dev
+Stars: 34505
+Repository: https://github.com/pandas-dev/pandas
+
+Name: sherlock
+Owner: sherlock-project
+Stars: 33756
+Repository: https://github.com/sherlock-project/sherlock
+
+Name: bert
+Owner: google-research
+Stars: 31642
+Repository: https://github.com/google-research/bert
+
+Name: sentry
+Owner: getsentry
+Stars: 31303
+Repository: https://github.com/getsentry/sentry
+
+Name: XX-Net
+Owner: XX-net
+Stars: 31295
+Repository: https://github.com/XX-net/XX-Net
+
+Name: wtfpython
+Owner: satwikkansal
+Stars: 31251
+Repository: https://github.com/satwikkansal/wtfpython
+
+Name: python-cheatsheet
+Owner: gto76
+Stars: 29629
+Repository: https://github.com/gto76/python-cheatsheet
+
+Name: black
+Owner: psf
+Stars: 28478
+Repository: https://github.com/psf/black
+
+Name: gym
+Owner: openai
+Stars: 28021
+Repository: https://github.com/openai/gym
+
+Name: airflow
+Owner: apache
+Stars: 26645
+Repository: https://github.com/apache/airflow
+
+Name: HanLP
+Owner: hankcs
+Stars: 26380
+Repository: https://github.com/hankcs/HanLP
+
+Name: spaCy
+Owner: explosion
+Stars: 23750
+Repository: https://github.com/explosion/spaCy
+
+Name: django-rest-framework
+Owner: encode
+Stars: 23712
+Repository: https://github.com/encode/django-rest-framework
+
+Name: pipenv
+Owner: pypa
+Stars: 23098
+Repository: https://github.com/pypa/pipenv
+
+Name: MockingBird
+Owner: babysor
+Stars: 23078
+Repository: https://github.com/babysor/MockingBird
+
+Name: python-fire
+Owner: google
+Stars: 22681
+Repository: https://github.com/google/python-fire
+
+Name: ItChat
+Owner: littlecodersh
+Stars: 22274
+Repository: https://github.com/littlecodersh/ItChat

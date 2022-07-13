@@ -1,0 +1,150 @@
+
+Name: go
+Owner: golang
+Stars: 101538
+Repository: https://github.com/golang/go
+
+Name: kubernetes
+Owner: kubernetes
+Stars: 90115
+Repository: https://github.com/kubernetes/kubernetes
+
+Name: awesome-go
+Owner: avelino
+Stars: 83819
+Repository: https://github.com/avelino/awesome-go
+
+Name: moby
+Owner: moby
+Stars: 63492
+Repository: https://github.com/moby/moby
+
+Name: gin
+Owner: gin-gonic
+Stars: 60971
+Repository: https://github.com/gin-gonic/gin
+
+Name: hugo
+Owner: gohugoio
+Stars: 60096
+Repository: https://github.com/gohugoio/hugo
+
+Name: frp
+Owner: fatedier
+Stars: 57884
+Repository: https://github.com/fatedier/frp
+
+Name: syncthing
+Owner: syncthing
+Stars: 45573
+Repository: https://github.com/syncthing/syncthing
+
+Name: fzf
+Owner: junegunn
+Stars: 45567
+Repository: https://github.com/junegunn/fzf
+
+Name: prometheus
+Owner: prometheus
+Stars: 43327
+Repository: https://github.com/prometheus/prometheus
+
+Name: caddy
+Owner: caddyserver
+Stars: 41597
+Repository: https://github.com/caddyserver/caddy
+
+Name: build-web-application-with-golang
+Owner: astaxie
+Stars: 40561
+Repository: https://github.com/astaxie/build-web-application-with-golang
+
+Name: etcd
+Owner: etcd-io
+Stars: 40503
+Repository: https://github.com/etcd-io/etcd
+
+Name: gogs
+Owner: gogs
+Stars: 40485
+Repository: https://github.com/gogs/gogs
+
+Name: v2ray-core
+Owner: v2ray
+Stars: 39890
+Repository: https://github.com/v2ray/v2ray-core
+
+Name: traefik
+Owner: traefik
+Stars: 38831
+Repository: https://github.com/traefik/traefik
+
+Name: go-ethereum
+Owner: ethereum
+Stars: 38342
+Repository: https://github.com/ethereum/go-ethereum
+
+Name: mkcert
+Owner: FiloSottile
+Stars: 35927
+Repository: https://github.com/FiloSottile/mkcert
+
+Name: minio
+Owner: minio
+Stars: 34075
+Repository: https://github.com/minio/minio
+
+Name: rclone
+Owner: rclone
+Stars: 33688
+Repository: https://github.com/rclone/rclone
+
+Name: terraform
+Owner: hashicorp
+Stars: 33380
+Repository: https://github.com/hashicorp/terraform
+
+Name: dive
+Owner: wagoodman
+Stars: 32684
+Repository: https://github.com/wagoodman/dive
+
+Name: esbuild
+Owner: evanw
+Stars: 32403
+Repository: https://github.com/evanw/esbuild
+
+Name: tidb
+Owner: pingcap
+Stars: 31798
+Repository: https://github.com/pingcap/tidb
+
+Name: gitea
+Owner: go-gitea
+Stars: 30949
+Repository: https://github.com/go-gitea/gitea
+
+Name: istio
+Owner: istio
+Stars: 30807
+Repository: https://github.com/istio/istio
+
+Name: the-way-to-go_ZH_CN
+Owner: unknwon
+Stars: 30108
+Repository: https://github.com/unknwon/the-way-to-go_ZH_CN
+
+Name: cli
+Owner: cli
+Stars: 29173
+Repository: https://github.com/cli/cli
+
+Name: gorm
+Owner: go-gorm
+Stars: 28876
+Repository: https://github.com/go-gorm/gorm
+
+Name: clash
+Owner: Dreamacro
+Stars: 28948
+Repository: https://github.com/Dreamacro/clash
